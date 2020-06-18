@@ -1,25 +1,26 @@
 Peer-graded Assignment: Getting and Cleaning Data Course Project
 
-This repository is a Nunno Nugroho submission for Getting and Cleaning Data course project. It has the instructions on how to run analysis on Human Activity recognition dataset.
+This repository is a Amany Emam's submission for Getting and Cleaning Data course project. This includes all the instructions on how to run be able to analyse the Human Activity recognition dataset.
 
-Dataset
+## Dataset
 
 Human Activity Recognition Using Smartphones
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
 ## Files
 
-* CodeBook.md a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
+* CodeBook.md which is a code book that describes all the variables, transformations that were performed to clean up the data ,and the final data
 
-* run_analysis.R performs the data preparation and then followed by the 5 steps required as described in the course project’s definition:
+* run_analysis.R is an Rtrunscipt that includes all the data preparation and the coding in these following five steps:
 
-** Merges the training and the test sets to create one data set.
+** The first step: Merged the training and the test sets to create one data set.
 
-** Extracts only the measurements on the mean and standard deviation for each measurement.
+** second step: Extracted only the measurements on the mean and standard deviation for each measurement.
 
-** Uses descriptive activity names to name the activities in the data set
+** Third step: Used descriptive activity names to name the activities in the data set
 
-** Appropriately labels the data set with descriptive variable names.
+** Fourth step: Appropriately labelled the data set with descriptive variable names.
 
-** From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+** Last step: From the data set in step 4, created a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 * FinalData.txt is the exported final data after going through all the sequences described above.
