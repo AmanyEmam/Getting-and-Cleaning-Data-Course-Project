@@ -2,6 +2,10 @@ Peer-graded Assignment: Getting and Cleaning Data Course Project
 
 This repository is a Amany Emam's submission for Getting and Cleaning Data course project. This includes all the instructions on how to run be able to analyse the Human Activity recognition dataset.
 
+First, download and unzip the data file into your R working directory.
+Second, download the R source code into your R working directory.
+Finally, execute R source code to generate tidy data file.
+
 ## Dataset
 
 Human Activity Recognition Using Smartphones
