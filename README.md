@@ -1,10 +1,10 @@
 Peer-graded Assignment: Getting and Cleaning Data Course Project
 
-First, download and unzip the data file into your R working directory.
+* First, download and unzip the data file into your R working directory.
 
-Second, download the R source code into your R working directory.
+* Second, download the R source code into your R working directory.
 
-Finally, execute R source code to generate tidy data file.
+* Finally, execute R source code to generate tidy data file.
 
 ## Dataset
 
